@@ -69,5 +69,5 @@ and share my findings there
 
 * Got offer as an apprentice auditor from [SpearbitDAO](https://spearbit.com/). Spearbit connects independent security experts to the Web3 projects that need them.
 * Got 2nd rank out of 77 participants in Secureum [RACE-7](https://discord.com/channels/814328279468474419/927065287172427798/995142134082580601). Secureum is a community focused on improving the security of Ethereum. RACE — Readiness Assessment(quizzes) for CARE Endeavor. CARE — Comprehensive Audit Readiness Evaluation: Smart contract security reviews of real-world, security-minded protocols is held whenever protocols collaborate with Secureum. 16 participants are invited to participate in a CARE. More info [here](https://discord.com/channels/814328279468474419/928441092116975696/928520290047242292).
-* * Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709).
+* Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709).
 
