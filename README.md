@@ -1,5 +1,5 @@
 Hi there 👋
-I'm a Parth, Smart contract Intern working at [Nethermind](https://nethermind.io/).
+I'm Parth. I am looking for full time roles in smart contract development/security .
 
 # Work experience: 
 
