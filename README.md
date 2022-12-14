@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Parth. I am looking for full time roles in smart contract development/security .
+I'm Parth. I am looking for full time roles in smart contract development/security. I am currently working as Junior Security Researcher(part time) at SpearbitDAO. Apart from this, I also do bug hunting on code4rena and immunefi.
 
 # Achievements
 
@@ -39,30 +39,51 @@ and share my findings there
 * Gmail - [Parth Patel](mailto: parth4321patel@gmail.com)
 * Discord - Parth#7949
 * Linkedin - [Parth](https://www.linkedin.com/in/parth-patel11/)
-#
-# Web3 Journey Summary (Since Jan 2021)
 
-* Read "Mastering Ethereum" and "Mastering Bitcoin".
-* Learnt basic syntax of solidity from [CryptoZombies](https://cryptozombies.io/)
-* Took part in [encode basic solidity bootcamp](https://www.encode.club/solidity-bootcamps) for 8 weeks.
-* Deep-dived into advance syntax by following solidity docs(https://docs.soliditylang.org/en/v0.8.15/)
-* Completed CTF wargame Ethernaut for enhancing smart contract security skills (https://ethernaut.openzeppelin.com/)
-* Completed first 6 slots of [secureum epoch 0 material](https://github.com/x676f64/secureum-mind_map)
-
-# 
 
 # Projects I have built:
 
 ## Securing Aave protocol
 * Written rules for this [file](https://github.com/MichaelMorami/aave-protocol-v2-AStETH/tree/feature/steth-on-prev-version) using certora verification language(CVL). These rules were part of [Formal verification of AAVE](https://governance.aave.com/t/continuous-formal-verification). 
 * I have mainly worked on `feature/steth-on-prev-version` branch and written some rules. 
-* My pull requests can be viewed [here](https://github.com/MichaelMorami/aave-protocol-v2-AStETH/pull/4).
+* My pull requests can be viewed [here](https://github.com/MichaelMorami/aave-protocol-v2-AStETH/pull/4) and [here](https://github.com/Certora/aave-token-v3/pull/2).
+* Got awarded 10000$ for securing AAVE contracts under [Certora formal verification program](https://discord.com/channels/814328279468474419/927065287172427798/1019940597353697281). Also got listed as contributor in formal verification report published by [Certora](https://www.certora.com/wp-content/uploads/2022/09/Formal-Verification-Report-of-AAVE-Token-V3.pdf).
 * Language: Solidity, Certora Verification language
+
+## Crowdfund 
+* A fundraising contract which provides ERC721 contributor badge NFTs to contributors that invest past a certain threshold. 
+* A project owner can deploy a fundraising contract through the factory contract with set fundraising goals and timelines. 
+* Investors are refunded their contributions if the fundraiser is unsuccessful or cancelled.
+* Contracts: https://github.com/parth-15/solidity-portfolio/tree/main/crowdfund
+* Audit report: https://github.com/parth-15/solidity-portfolio/blob/main/crowdfund/staff-audit-crowdfund.md
+
+## ICO
+* A multi-phase ERC20 token fundraiser which includes a whitelist-only private phase, a public general phase, and an open phase where tokens become claimable. 
+* The token is designed with an optional transfer tax. 
+* This project has been deployed to Rinkeby testnet, and also includes a custom barebones JS front-end.
+* Contracts: https://github.com/parth-15/solidity-portfolio/tree/main/ico
+* Audit report: https://github.com/parth-15/solidity-portfolio/blob/main/ico/staff-audit-ico.md
+
+## DAO
+* An ownerless DAO contract with the purpose of acquiring NFTs with treasury funds. 
+* Members can submit proposals to purchase NFTs or execute arbitrary code. 
+* Votes can be made either on-chain or off-chain through gasless signature. 
+* No imports were used for this project. The spec was custom designed to incentivize behavior benefitting long-term success of the DAO.
+* Contracts: https://github.com/parth-15/solidity-portfolio/tree/main/dao
+* Audit report: https://github.com/parth-15/solidity-portfolio/blob/main/dao/staff-audit-dao.md
+
+## Liquidity-pool(LP)
+* A uniswap V2-style AMM core and router that allows liquidity provisioning and swaps through a constant curve formula. 
+* The contracts take special care to handle a token with internal transfer tax without unexpected slippage. 
+* The code is more readable than Uniswap's, and the core contract design prevents liquidity providers from unexpectedly donating additional funds to the pool if their provided liquidity ratio differs from the pool. 
+* This project has been deployed to Rinkeby testnet, and also includes a custom barebones JS front-end.
+* Contracts: https://github.com/parth-15/solidity-portfolio/tree/main/lp
+* Audit report: https://github.com/parth-15/solidity-portfolio/blob/main/lp/staff-audit-lp.md
 
 ## Uniswap v1 clone
 * Created clone of Uniswap v1 in Solidity.
 * The code of the original protocol was written in Vyper.
-* https://github.com/parth-15/uniswap-v1-clone
+* Contracts: https://github.com/parth-15/uniswap-v1-clone
 * Language: Solidity
 
 ## Calorie Tracking App
