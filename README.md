@@ -9,6 +9,7 @@ I'm Parth. I am looking for full time roles in smart contract development/securi
 * Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709).
 * Got 21st rank out of 93 participants in Secureum [RACE-10](https://discord.com/channels/814328279468474419/927065287172427798/1026417347965231114).
 * Got 18th rank out of 106 participants in Secureum [RACE-11](https://discord.com/channels/814328279468474419/927065287172427798/1036822349510623334). This good score gave me chance to attend Scribble workshop by Consensys Diligence. See [Announcement here](https://twitter.com/0xRajeev/status/1583348269542801409).
+* Got 19th rank out of 98 participants in Secureum [RACE-12](https://discord.com/channels/814328279468474419/927065287172427798/1049907696603774986).
 
 # Work experience: 
 
