@@ -13,7 +13,7 @@ I'm Parth. I am looking for full time roles in smart contract development/securi
 
 # Work experience: 
 
-#### Nethermind - Smart Contract Intern (June 2022 - Present)
+#### Nethermind - Smart Contract Intern (June 2022 - August 2022)
 
 * Working with Synnax/Gauss team which aims to improve the security of smart contracts.
 * Responsible for doing the audits of various Solidity smart contracts along with team of other interns and auditors. Finding low severity bugs and also helping in gas optimization
