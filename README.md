@@ -1,6 +1,15 @@
 Hi there 👋
 I'm Parth. I am looking for full time roles in smart contract development/security .
 
+# Achievements
+
+* Got offer as an apprentice auditor from [SpearbitDAO](https://spearbit.com/). Spearbit connects independent security experts to the Web3 projects that need them.
+* Got awarded 10000$ for securing AAVE contracts under [Certora formal verification program](https://discord.com/channels/814328279468474419/927065287172427798/1019940597353697281).
+* Got 2nd rank out of 77 participants in Secureum [RACE-7](https://discord.com/channels/814328279468474419/927065287172427798/995142134082580601). Secureum is a community focused on improving the security of Ethereum. RACE — Readiness Assessment(quizzes) for CARE Endeavor. CARE — Comprehensive Audit Readiness Evaluation: Smart contract security reviews of real-world, security-minded protocols is held whenever protocols collaborate with Secureum. 16 participants are invited to participate in a CARE. More info [here](https://discord.com/channels/814328279468474419/928441092116975696/928520290047242292).
+* Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709).
+* Got 21st rank out of 93 participants in Secureum [RACE-10](https://discord.com/channels/814328279468474419/927065287172427798/1026417347965231114).
+* Got 18th rank out of 106 participants in Secureum [RACE-11](https://discord.com/channels/814328279468474419/927065287172427798/1036822349510623334). This good score gave me chance to attend Scribble workshop by Consensys Diligence. See [Announcement here](https://twitter.com/0xRajeev/status/1583348269542801409).
+
 # Work experience: 
 
 #### Nethermind - Smart Contract Intern (June 2022 - Present)
@@ -65,12 +74,4 @@ and share my findings there
 * https://github.com/parth-15/CalorieTrackingApp
 * Technologies: React, NodeJS, HTML, CSS
 
-# Achievements
-
-* Got offer as an apprentice auditor from [SpearbitDAO](https://spearbit.com/). Spearbit connects independent security experts to the Web3 projects that need them.
-* Got awarded 10000$ for securing AAVE contracts under [Certora formal verification program](https://discord.com/channels/814328279468474419/927065287172427798/1019940597353697281).
-* Got 2nd rank out of 77 participants in Secureum [RACE-7](https://discord.com/channels/814328279468474419/927065287172427798/995142134082580601). Secureum is a community focused on improving the security of Ethereum. RACE — Readiness Assessment(quizzes) for CARE Endeavor. CARE — Comprehensive Audit Readiness Evaluation: Smart contract security reviews of real-world, security-minded protocols is held whenever protocols collaborate with Secureum. 16 participants are invited to participate in a CARE. More info [here](https://discord.com/channels/814328279468474419/928441092116975696/928520290047242292).
-* Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709).
-* Got 21st rank out of 93 participants in Secureum [RACE-10](https://discord.com/channels/814328279468474419/927065287172427798/1026417347965231114).
-* Got 18th rank out of 106 participants in Secureum [RACE-11](https://discord.com/channels/814328279468474419/927065287172427798/1036822349510623334). This good score gave me chance to attend Scribble workshop by Consensys Diligence. See [Announcement here](https://twitter.com/0xRajeev/status/1583348269542801409).
 
