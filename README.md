@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Parth. I am looking for full time roles in smart contract development/security. I am currently working as Junior Security Researcher(part time) at SpearbitDAO. Apart from this, I also do bug hunting on code4rena and immunefi.
+I'm Parth. I am looking for part time roles(freelancing/contract) in smart contract development/security. I am currently working as Junior Security Researcher(part time) at SpearbitDAO. Apart from this, I also do bug hunting on code4rena and immunefi.
 
 # Achievements
 
