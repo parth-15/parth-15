@@ -1,9 +1,10 @@
 Hi there 👋
-I'm Parth. I am looking for part time roles(freelancing/contract) in smart contract development/security. I am currently working as Junior Security Researcher(part time) at SpearbitDAO. Apart from this, I also do bug hunting on code4rena and immunefi.
+I'm Parth. I am looking for part time roles(freelancing/contract) in smart contract development/security. I am currently working as Junior Security Researcher(part time) at [SpearbitDAO](https://spearbit.com/). Apart from this, I also do bug hunting on code4rena and immunefi.
 
 # Achievements
 
 * Got offer as a Junior Security Researcher from [SpearbitDAO](https://spearbit.com/). Spearbit connects independent security experts to the Web3 projects that need them.
+* Got selected for Security Research Fellowship program by [yAcademy](https://yacademy.dev/). Here is a repo of [block IV](https://github.com/Yacademy-block-4) that I participated in.
 * Got awarded 10000$ for securing AAVE contracts under [Certora formal verification program](https://discord.com/channels/814328279468474419/927065287172427798/1019940597353697281).
 * Got 2nd rank out of 77 participants in Secureum [RACE-7](https://discord.com/channels/814328279468474419/927065287172427798/995142134082580601). Secureum is a community focused on improving the security of Ethereum. RACE — Readiness Assessment(quizzes) for CARE Endeavor. CARE — Comprehensive Audit Readiness Evaluation: Smart contract security reviews of real-world, security-minded protocols is held whenever protocols collaborate with Secureum. 16 participants are invited to participate in a CARE. More info [here](https://discord.com/channels/814328279468474419/928441092116975696/928520290047242292).
 * Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709).
