@@ -1,16 +1,20 @@
 Hi there 👋
-I'm Parth. I am looking for part time roles(freelancing/contract) in smart contract development/security. I am currently working as Junior Security Researcher(part time) at [SpearbitDAO](https://spearbit.com/). Apart from this, I also do bug hunting on code4rena and immunefi.
+I'm Parth. I am currently contributing at [SpearbitDAO](https://spearbit.com/) and [Oak Security](https://www.oaksecurity.io/). Apart from this, I also do bug hunting on code4rena and immunefi. [Contact me](https://github.com/parth-15/parth-15/edit/main/README.md#-contact-info) for Smart contract development and audits.
 
 # Achievements
 
-* Got offer as a Junior Security Researcher from [SpearbitDAO](https://spearbit.com/). Spearbit connects independent security experts to the Web3 projects that need them.
+* Got offer as a Junior Security Researcher from [SpearbitDAO](https://spearbit.com/) and Smart Contract Auditor at [Oak Security](https://www.oaksecurity.io/).
 * Got selected for Security Research Fellowship program by [yAcademy](https://yacademy.dev/). Here is a repo of [block IV](https://github.com/Yacademy-block-4) that I participated in.
-* Got awarded 10000$ for securing AAVE contracts under [Certora formal verification program](https://discord.com/channels/814328279468474419/927065287172427798/1019940597353697281).
-* Got 2nd rank out of 77 participants in Secureum [RACE-7](https://discord.com/channels/814328279468474419/927065287172427798/995142134082580601). Secureum is a community focused on improving the security of Ethereum. RACE — Readiness Assessment(quizzes) for CARE Endeavor. CARE — Comprehensive Audit Readiness Evaluation: Smart contract security reviews of real-world, security-minded protocols is held whenever protocols collaborate with Secureum. 16 participants are invited to participate in a CARE. More info [here](https://discord.com/channels/814328279468474419/928441092116975696/928520290047242292).
-* Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709).
-* Got 21st rank out of 93 participants in Secureum [RACE-10](https://discord.com/channels/814328279468474419/927065287172427798/1026417347965231114).
-* Got 18th rank out of 106 participants in Secureum [RACE-11](https://discord.com/channels/814328279468474419/927065287172427798/1036822349510623334). This good score gave me chance to attend Scribble workshop by Consensys Diligence. See [Announcement here](https://twitter.com/0xRajeev/status/1583348269542801409).
-* Got 19th rank out of 98 participants in Secureum [RACE-12](https://discord.com/channels/814328279468474419/927065287172427798/1049907696603774986).
+* Got awarded $10_000 for securing AAVE contracts under [Certora formal verification program](https://discord.com/channels/814328279468474419/927065287172427798/1019940597353697281). Also, got awarded another $7_000 under the same program.
+* Got honors tier(best grade) in [0xmacro engineering fellowship](https://0xmacro.com/engineering-fellowship) for smart contract security.
+* Active participation in Secureum RACEs and CAREs. Secureum is a community focused on improving the security of Ethereum. RACE — Readiness Assessment(quizzes) for CARE Endeavor. CARE — Comprehensive Audit Readiness Evaluation: Smart contract security reviews of real-world, security-minded protocols is held whenever protocols collaborate with Secureum. 16 participants are invited to participate in a CARE. More info [here](https://discord.com/channels/814328279468474419/928441092116975696/928520290047242292).
+   * Got 2nd rank out of 77 participants in Secureum [RACE-7](https://discord.com/channels/814328279468474419/927065287172427798/995142134082580601). Top-16 winners were invited to participate in CAREX-Certora-AAVE.
+  * Got 4th rank out of 60 participants in Secureum [RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709). Top 16 participants were invited to participate in the Sherlock CASE on Element Finance from August 4-17.
+  * Got 21st rank out of 93 participants in Secureum [RACE-10](https://discord.com/channels/814328279468474419/927065287172427798/1026417347965231114).
+  * Got 18th rank out of 106 participants in Secureum [RACE-11](https://discord.com/channels/814328279468474419/927065287172427798/1036822349510623334). Top 16 participants were invited to the ConsenSys Diligence Scribble Workshop from 3-9 Nov.
+  * Got 19th rank out of 98 participants in Secureum [RACE-12](https://discord.com/channels/814328279468474419/927065287172427798/1049907696603774986).
+  * Got 8th rank out of 180 participants in Secureum [RACE-15](https://discord.com/channels/814328279468474419/927065287172427798/1079632172060782634). Top-32 performers were invited to a private channel for the Certora Workshop
+
 
 # Work experience: 
 
@@ -35,7 +39,7 @@ and share my findings there
 * Built SQL Query API which can work for different AWS databases which support SQL as a querying language.
 * Tools and Languages: Java, Scala,  AWS(Athena, S3, SNS, SQS, Firehose, Data Pipelines, EMR)
 
-# 📫 How to reach me
+# 📫 Contact Info
 
 * Twitter - [Parth Patel](https://twitter.com/__parthpatel__) Follow me on twitter to know about what I am learning
 * Gmail - [Parth Patel](mailto: parth4321patel@gmail.com)
