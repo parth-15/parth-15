@@ -14,9 +14,21 @@ I'm Parth. I am currently contributing at [SpearbitDAO](https://spearbit.com/) a
   * Got 18th rank out of 106 participants in Secureum [RACE-11](https://discord.com/channels/814328279468474419/927065287172427798/1036822349510623334). Top 16 participants were invited to the ConsenSys Diligence Scribble Workshop from 3-9 Nov.
   * Got 19th rank out of 98 participants in Secureum [RACE-12](https://discord.com/channels/814328279468474419/927065287172427798/1049907696603774986).
   * Got 8th rank out of 180 participants in Secureum [RACE-15](https://discord.com/channels/814328279468474419/927065287172427798/1079632172060782634). Top-32 performers were invited to a private channel for the Certora Workshop
+  
+ # 📫 Contact Info
+
+* Twitter - [Parth Patel](https://twitter.com/__parthpatel__)
+* Telegram - parth_15
+* Discord - Parth#7949
+* E-mail - [Parth Patel](mailto: parth4321patel@gmail.com)
+* Linkedin - [Parth](https://www.linkedin.com/in/parth-patel11/)
 
 
 # Work experience: 
+
+#### Independent Smart Contract developer and Auditor (November 2022 - Present)
+* Working with top tier Smart Contract security firms like [SpearbitDAO](https://spearbit.com/) and [Oak Security](https://www.oaksecurity.io/).
+* Conducted various private audits and continuosly trying to make ecosystem secure.
 
 #### Nethermind - Smart Contract Intern (June 2022 - August 2022)
 
@@ -39,15 +51,8 @@ and share my findings there
 * Built SQL Query API which can work for different AWS databases which support SQL as a querying language.
 * Tools and Languages: Java, Scala,  AWS(Athena, S3, SNS, SQS, Firehose, Data Pipelines, EMR)
 
-# 📫 Contact Info
 
-* Twitter - [Parth Patel](https://twitter.com/__parthpatel__) Follow me on twitter to know about what I am learning
-* Gmail - [Parth Patel](mailto: parth4321patel@gmail.com)
-* Discord - Parth#7949
-* Linkedin - [Parth](https://www.linkedin.com/in/parth-patel11/)
-
-
-# Projects I have built:
+# Projects:
 
 ## Securing Aave protocol
 * Written rules for this [file](https://github.com/MichaelMorami/aave-protocol-v2-AStETH/tree/feature/steth-on-prev-version) using certora verification language(CVL). These rules were part of [Formal verification of AAVE](https://governance.aave.com/t/continuous-formal-verification). 
