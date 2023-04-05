@@ -27,7 +27,7 @@ I'm Parth. I am currently contributing at [SpearbitDAO](https://spearbit.com/) a
 # Work experience: 
 
 #### Independent Smart Contract developer and Auditor (November 2022 - Present)
-* Working with top tier Smart Contract security firms like [SpearbitDAO](https://spearbit.com/) and [Oak Security](https://www.oaksecurity.io/).
+* Working with top tier Smart Contract security firms like [SpearbitDAO](https://spearbit.com/), [Oak Security] (https://www.oaksecurity.io/) and AuditOne[https://auditone.io/].
 * Conducted various private audits and continuosly trying to make ecosystem secure.
 
 #### Nethermind - Smart Contract Intern (June 2022 - August 2022)
