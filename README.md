@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Parth. I am currently contributing at [SpearbitDAO](https://spearbit.com/) and [Oak Security](https://www.oaksecurity.io/). Apart from this, I also do bug hunting on code4rena and immunefi. [Contact me](https://github.com/parth-15/parth-15/edit/main/README.md#-contact-info) for Smart contract development and audits.
+I'm Parth. I am currently contributing at [SpearbitDAO](https://spearbit.com/) and [Oak Security](https://www.oaksecurity.io/). Apart from this, I also do bug hunting on code4rena and immunefi. [Contact me](https://github.com/parth-15#-contact-info) for Smart contract development and audits.
 
 # Achievements
 
